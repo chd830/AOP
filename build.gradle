@@ -19,6 +19,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-devtools'
     implementation 'junit:junit:4.13.1'
     implementation 'junit:junit:4.13.1'
+    implementation 'org.projectlombok:lombok:1.18.18'
     runtimeOnly 'com.h2database:h2'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
